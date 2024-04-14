@@ -1,0 +1,14 @@
+body {
+    margin: 3%;
+    background-color: rgb(240, 236, 236);
+}
+
+.task_text {
+    background-color: rgb(202, 202, 202);
+    border: 5px solid rgb(125, 126, 126);
+}
+
+.result {
+    font-size: large;
+    font-weight: bolder;
+}
